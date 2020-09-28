@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>.</version>
+		<change>(v1.1.0) Fixed debug showing incorrect build number</change>
+	</changes>
+	<changes>
+		<version>.</version>
+		<change>(v1.0) Initial release</change>
+	</changes>
+
+</changelog>

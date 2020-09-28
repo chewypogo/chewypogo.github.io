@@ -1,0 +1,41 @@
+<package>
+	<id>me.nepeta.mitsuhainfinity</id>
+	<name>Mitsuha Infinity</name>
+	<version>0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libcolorpicker</package>
+		<package>AudioSnapshotServer</package>
+		<package>ws.hashbang.common</package>
+		<package>libnepeta</package>
+		<package>libmitsuha</package>
+	</dependencies>
+	<shortDescription>The original audio visualiser tweak by NepetaDev with updates for iOS 13.</shortDescription>
+	<descriptionlist>
+		<description>Make sure you have Nepeta's Mirror Repo added to your package manager: https://chr0nict.github.io/Nepeta-Mirror/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>The lockscreen visualizer</description>
+			<image>lockscreen.png</image>
+		</screenshot>
+		<screenshot>
+			<description>The spotify visualizer</description>
+			<image>spotify.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>The music app visualizer</description>
+			<image>music.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>0.2</change>
+		<change>Fix Spotify and Apple Music Integrations</change>
+	</changelog>
+</package>

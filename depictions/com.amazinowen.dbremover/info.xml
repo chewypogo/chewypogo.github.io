@@ -1,0 +1,35 @@
+<package>
+	<id>com.amazinowen.dbremover</id>
+	<name>DBRemover12</name>
+	<version>1.3.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A simple tweak to remove the dock background tested on iOS 12 - 12.4.5.</description>
+	    </descriptionlist>
+	<screenshots>	
+		<screenshot>		
+			<description>This is a Screenshot of the tweak uninstalled</description>
+		    <image>DBRu.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a Screenshot of the tweak installed</description>
+			<image>DBR.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed debug issue and added Preference Bundle now shows in settings but is a dummy (ATM) Stay patient :)</change>
+	</changelog>
+	<links></links>
+</package>

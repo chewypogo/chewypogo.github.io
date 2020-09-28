@@ -1,0 +1,15 @@
+<changelog>
+	<changes>
+		<version>.</version>
+		<change>(v1.3) Fixed debug issue and added Preference Bundle now shows in settings but is a dummy (ATM) Stay patient :)</change>
+	</changes>
+	<changes>
+		<version>.</version>
+		<change>(v1.2-1) still facing a bug tweak not showing up after install in the repo will fix soon.</change>
+		<version>.</version>
+		<change>(v1.2.1) Minor update fixes some issues with respringing</change>
+		<version>.</version>
+		<change>(v1.0) Initial release</change>
+	</changes>
+
+</changelog>

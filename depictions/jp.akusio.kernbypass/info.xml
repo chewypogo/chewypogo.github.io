@@ -1,0 +1,28 @@
+<package>
+	<id>jp.akusio.kernbypass</id>
+	<name>Kernbypass</name>
+	<version>0.0.3.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<descriptionlist>
+		<description>A Kernal level bypass for Checkra1n and Unc0ver!</description>
+		<description>added to my repo temporally due to askuio's repo is offline</description>
+		<description>also add https://repo.ipodhacks142.com for kernbypass reboot fix</description>
+	    </descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Added to repo temporally</change>
+	</changelog>
+	<links></links>
+</package>

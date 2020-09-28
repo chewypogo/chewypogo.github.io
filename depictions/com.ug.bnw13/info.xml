@@ -1,0 +1,40 @@
+<package>
+	<id>com.ug.bnw13</id>
+	<name>BnW13</name>
+	<version>1.7.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>Anemome</package>
+	    <package>Snowboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A Black n White icon theme!</description>
+	    </descriptionlist>
+	<screenshots>	
+		<screenshot>		
+			<description>Page 1</description>
+		    <image>Page 1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Page 2</description>
+			<image>Page 2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Page 3</description>
+			<image>Page 3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Changed Bundle ID</change>
+	</changelog>
+	<links></links>
+</package>

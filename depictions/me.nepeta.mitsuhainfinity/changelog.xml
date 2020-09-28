@@ -1,0 +1,14 @@
+<changelog>
+	<changes>
+		<version>.</version>
+		<change>(v0.2) Fix Spotify and Apple Music Integrations</change>
+	</changes>
+	<changes>
+		<version>.</version>
+		<change>(v0.1.8-3) Make depiction show and update preferences pane</change>
+	</changes>
+	<changes>
+		<version>.</version>
+		<change>(v0.1.8-2) Add support for iOS 13</change>
+	</changes>
+</changelog>

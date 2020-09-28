@@ -1,0 +1,28 @@
+<package>
+	<id>com.amazinowen.messangerreturn</id>
+	<name>MessangerReturn12</name>
+	<version>1.1.0.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A tweak to add the back button on facebook messanger it redirects you to the facebook app, tested on iOS 12 - 12.4.5.</description>
+		<description>This tweak no longer works with facebook messanger. END OF SUPPORT!</description>
+	    </descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Fixed debug showing incorrect build number</change>
+	</changelog>
+	<links></links>
+</package>

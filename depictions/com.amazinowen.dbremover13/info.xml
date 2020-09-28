@@ -1,0 +1,35 @@
+<package>
+	<id>com.amazinowen.dbremover13</id>
+	<name>DBRemover13</name>
+	<version>1.2.0-1.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A simple tweak to remove the dock background tested on iOS 13 - 13.5.1.</description>
+	    </descriptionlist>
+	<screenshots>	
+		<screenshot>		
+			<description>This is a Screenshot of the tweak uninstalled</description>
+		    <image>DBRu.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a Screenshot of the tweak installed</description>
+			<image>DBR.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added Support for iOS 13.5.1</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+	<id>jp.akusio.backgrounderaction13</id>
+	<name>Backgrounderaction13</name>
+	<version>0.1.4.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	    <package>ccsupport</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Backgrounder Action used for Milkyway 2</description>
+		<description>added to my repo temporally due to askuio's repo is offline</description>
+	    </descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Added to my repo temporally</change>
+	</changelog>
+	<links></links>
+</package>

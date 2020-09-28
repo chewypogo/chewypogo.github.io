@@ -1,0 +1,27 @@
+<package>
+	<id>kr.xsf1re.flyjb</id>
+	<name>kernbypass</name>
+	<version>0.2.6.5.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<descriptionlist>
+		<description>A Jailbreak bypass called FlyJB</description>
+		<description>added to my repo temporally due to xsf1re's repo is offline</description>
+	    </descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Added to my repo temporally</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,13 @@
+<changelog>
+	<changes>
+		<version>.</version>
+		<change>(v1.2.0-1) Added Support for ios 13.5.1</change>
+	</changes>
+	<changes>
+		<version>.</version>
+		<change>(v0.1.2-2) Brought out of debug mode</change>
+		<version>.</version>
+		<change>(v0.1.0-1+debug) Initial release</change>
+	</changes>
+
+</changelog>
