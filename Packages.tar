@@ -3,12 +3,7 @@ Name: BnW13
 Version: 1.7
 Architecture: iphoneos-arm
 Description: A Black n White icon theme!
-Author: UG <amazinowen@gmail.com>
-Maintainer: UG <amazinowen@gmail.com>
 Section: Themes
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.ug.bnw13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.ug.bnw13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/BnW13_icon.png
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Size: 49294356
 MD5sum: 04bd11f5c688fd09ab3aa86cbff81c62
@@ -19,13 +14,8 @@ Name: Colourful13
 Version: 1.7
 Architecture: iphoneos-arm
 Description: A beautiful colourful icon theme!
-Author: UG <amazinowen@gmail.com>
-Maintainer: UG <amazinowen@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.ug.colourful13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.ug.colourful13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/CF13_icon.png
 Size: 74084132
 MD5sum: 6ab233471e907ae72bc723bd0cc74ff7
 Filename: ./debs/Colourful13_v1.7.deb
@@ -35,11 +25,6 @@ Name: DBRemover13
 Depends: mobilesubstrate, firmware (>>13.0)
 Architecture: iphoneos-arm
 Description: Dock background remover for iOS 13+
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR13_icon.png
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com
 Section: Tweaks
 Version: 0.1.0-1+debug
 Installed-Size: 132
@@ -52,11 +37,6 @@ Name: DBRemover13
 Depends: mobilesubstrate, firmware (>>13.0)
 Architecture: iphoneos-arm
 Description: Dock Background Remover for iOS 13+
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR13_icon.png
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com
 Section: Tweaks
 Version: 0.1.1-1+debug
 Installed-Size: 132
@@ -69,11 +49,6 @@ Name: DBRemover13
 Depends: mobilesubstrate, firmware (>>13.0)
 Architecture: iphoneos-arm
 Description: Dock Background Remover for iOS 13+
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR13_icon.png
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com
 Section: Tweaks
 Version: 0.1.2-2
 Installed-Size: 132
@@ -83,8 +58,6 @@ Filename: ./debs/com.amazinowen.dbremover13_0.1.2-2.deb
 
 Package: com.amazinowen.dbremover13
 Architecture: iphoneos-arm
-Author: UG <amazinowen@gmail.com>
-Maintainer: UG <amazinowen@gmail.com>
 Description: Dock background remover for iOS 13+
 Depends: firmware (>=13.0), mobilesubstrate
 Name: DBRemover13
@@ -102,11 +75,6 @@ Package: com.amazinowen.dbremover
 Name: DBRemover12
 Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen.github.io>
-Depiction: https://unkn0wen-guy.github.io/repo/depictions/?p=com.amazinowen.dbremover
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR12_icon.png
 Filename: ./debs/com.amazinowen.dbremover.deb
 Section: Tweaks
 Version: 1.1.2-1+debug
@@ -119,11 +87,6 @@ Package: com.amazinowen.dbremover
 Name: DBRemover12
 Depends: firmware (>>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR12_icon.png
 Description: Dock background remover for iOS 12 - 12.1.2
 Section: Tweaks
 Version: 1.2-1
@@ -136,11 +99,6 @@ Package: com.amazinowen.dbremover
 Name: DBRemover12
 Depends: firmware (>>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR12_icon.png
 Description: Dock background remover for iOS 12 - 12.1.2
 Section: Tweaks
 Version: 1.2.1
@@ -153,11 +111,6 @@ Package: com.amazinowen.dbremover
 Name: DBRemover12
 Architecture: iphoneos-arm
 Description: Dock background remover for iOS 12 - 12.1.2
-Depiction:https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR12_icon.png
-Author: UG <amazinowen@gmail.com>
-Maintainer: UG <amazinowen@gmail.com>
 Filename: ./debs/com.amazinowen.dbremover_1.3.deb
 Depends: firmware (>=12.0), mobilesubstrate
 Section: Tweaks
@@ -171,11 +124,6 @@ Package: com.amazinowen.messangerreturn
 Name: MessangerReturn12
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: UG <amazinowen@gmail.com>
-Author: UG <amazinowen@gmail.com>
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.messangerreturn
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.messangerreturn
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/MR12_icon.png
 Section: Tweaks
 Version: 1.0-1+debug
 Installed-Size: 132
@@ -187,11 +135,6 @@ Package: com.amazinowen.messangerreturn
 Name: MessangerReturn12
 Architecture: iphoneos-arm
 Description: Brings back button to Facebook messanger for iOS iOS 12 - 12.1.2
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.messangerreturn
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.messangerreturn
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/MR12_icon.png
-Author: UG <amazinowen@gmail.com>
-Maintainer: UG <amazinowen@gmail.com>
 Filename: ./debs/com.amazinowen.messangerreturn_1.1.0.deb
 Depends: firmware (>=12.0), mobilesubstrate
 Section: Tweaks
@@ -206,8 +149,6 @@ Name: BackgrounderAction2 for CCSupport
 Depends: mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/jp.akusio.backgrounderaction13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/jp.akusio.backgrounderaction13
 Maintainer: akusio 
 Author: akusio 
 Section: Tweaks
@@ -222,9 +163,6 @@ Name: MilkyWay2
 Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
 Architecture: iphoneos-arm
 Description: multitasking for iOS 13+.
-Depiction:https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/jp.akusio.milkyway2
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/jp.akusio.milkyway2
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/MW2_icon.png
 Maintainer: akusio 
 Author: akusio 
 Section: Tweaks
@@ -239,9 +177,6 @@ Name: KernBypass (akusio)
 Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
 Architecture: iphoneos-arm
 Description: kernel level jailbreak detection bypass.
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/jp.akusio.kernbypass
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/jp.akusio.kernbypass
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/KB_icon.png
 Maintainer: akusio
 Author: akusio
 Section: System
@@ -256,9 +191,6 @@ Name: KernBypass (akusio)
 Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
 Architecture: iphoneos-arm
 Description: kernel level jailbreak detection bypass.
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/jp.akusio.kernbypass
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/jp.akusio.kernbypass
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/KB_icon.png
 Maintainer: akusio
 Author: akusio
 Section: System
@@ -277,9 +209,6 @@ Description: Audio visualizer for iOS
 Maintainer: ConorTheDev
 Author: c0ldra1n, Nepeta, ConorTheDev
 Section: Tweaks
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/me.nepeta.mitsuhainfinity
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/me.nepeta.mitsuhainfinity
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/MI_icon.png
 Version: 0.1.8-3
 Installed-Size: 896
 Size: 50674
@@ -295,9 +224,6 @@ Description: Audio visualizer for iOS
 Maintainer: ConorTheDev <con0r.b@protonmail.com>
 Author: ConorTheDev <con0r.b@protonmail.com>, c0ldra1n, Nepeta
 Section: Tweaks
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/me.nepeta.mitsuhainfinity
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/me.nepeta.mitsuhainfinity
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/MI_icon.png
 Version: 0.2
 Installed-Size: 896
 Size: 50426
@@ -314,9 +240,6 @@ Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
 Description: You can HIDE Doing jailbreak your iDevice.
 Name: FlyJB
 Author: XsF1re
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/FlyJB_icon.png
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/kr.xsf1re.flyjb
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/kr.xsf1re.flyjb
 Size: 504136
 MD5sum: 9124936368f2bb2aa4e7c8b0ca81c25f
 Filename: ./debs/kr.xsf1re.flyjb_0.2.5.6_iphoneos-arm.deb
@@ -328,10 +251,6 @@ Description: Manage enabled/disabled tweaks in bulk.
 Maintainer: Unicorn808
 Author: Unicorn808 <morgandeanhi@gmail.com>
 Section: Utilities
-Icon: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/icon.jpg
-Homepage: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
-Depiction: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
-SileoDepiction: https://repo.mogdan.xyz/sileo/xyz.mogdan.tweakmanager/depiction.json
 Version: 0.1.6-2
 Installed-Size: 1920
 Size: 1680422
@@ -345,7 +264,7 @@ Version: 2.6
 Section: Tweaks
 Maintainer: Azozz ALFiras
 Depends: mobilesubstrate, preferenceloader
-Depiction: https://unkn0wen-guy.github.io/repo/depictions/?p=co.azozzalfiras.azflibrary
+
 Architecture: iphoneos-arm
 Installed-Size: 2224
 Author: Azozz ALFiras
@@ -361,9 +280,6 @@ Section: Tweaks
 Maintainer: Azozz ALFiras
 Depends: mobilesubstrate, ws.hbang.common
 Description: JB bypass by Azozz Alfiras from packix
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/co.azozzalfiras.tweaksmanager
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/co.azozzalfiras.tweaksmanager
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/TWM_icon.png
 Architecture: iphoneos-arm
 Installed-Size: 864
 Author: Azozz ALFiras
@@ -378,9 +294,6 @@ Maintainer: Azozz ALFiras
 Description: JB bypass by Azozz Alfiras from packix
 Depends: mobilesubstrate, ws.hbang.common, co.azozzalfiras.azflibrary
 Architecture: iphoneos-arm
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/co.azozzalfiras.tweaksmanager
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/co.azozzalfiras.tweaksmanager
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/TWM_icon.png
 Installed-Size: 1368
 Name: Tweaks Manager
 Author: Azozz ALFiras
