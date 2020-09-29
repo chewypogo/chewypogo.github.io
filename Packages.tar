@@ -1,190 +1,19 @@
 Packages��������������������������������������������������������������������������������������������0100777�0000000�0000000�00000036623�13733710622�007473� 0����������������������������������������������������������������������������������������������������ustar�00�������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Package: com.ug.bnw13
-Name: BnW13
-Version: 1.7
-Architecture: iphoneos-arm
-Description: A Black n White icon theme!
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Size: 49294356
-MD5sum: 04bd11f5c688fd09ab3aa86cbff81c62
-Filename: ./debs/BnW13_v1.7.deb
 
-Package: com.ug.colourful13
-Name: Colourful13
-Version: 1.7
-Architecture: iphoneos-arm
-Description: A beautiful colourful icon theme!
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Size: 74084132
-MD5sum: 6ab233471e907ae72bc723bd0cc74ff7
-Filename: ./debs/Colourful13_v1.7.deb
 
-Package: com.amazinowen.dbremover13
-Name: DBRemover13
-Depends: mobilesubstrate, firmware (>>13.0)
-Architecture: iphoneos-arm
-Description: Dock background remover for iOS 13+
-Section: Tweaks
-Version: 0.1.0-1+debug
-Installed-Size: 132
-Size: 9714
-MD5sum: d7a8be6414018e2d68eaea3b8af94968
-Filename: ./debs/com.amazinowen.dbremover13_0.1.0.deb
-
-Package: com.amazinowen.dbremover13
-Name: DBRemover13
-Depends: mobilesubstrate, firmware (>>13.0)
-Architecture: iphoneos-arm
-Description: Dock Background Remover for iOS 13+
-Section: Tweaks
-Version: 0.1.1-1+debug
-Installed-Size: 132
-Size: 9712
-MD5sum: 936fe93e934aff64ca248df63405cafa
-Filename: ./debs/com.amazinowen.dbremover13_0.1.1.deb
-
-Package: com.amazinowen.dbremover13
-Name: DBRemover13
-Depends: mobilesubstrate, firmware (>>13.0)
-Architecture: iphoneos-arm
-Description: Dock Background Remover for iOS 13+
-Section: Tweaks
-Version: 0.1.2-2
-Installed-Size: 132
-Size: 9228
-MD5sum: b65ac22f83b5f2b0ea63549243a5fcbf
-Filename: ./debs/com.amazinowen.dbremover13_0.1.2-2.deb
-
-Package: com.amazinowen.dbremover13
-Architecture: iphoneos-arm
-Description: Dock background remover for iOS 13+
-Depends: firmware (>=13.0), mobilesubstrate
-Name: DBRemover13
-Section: Tweaks
-Depiction: https://github.com/chewypogo/chewypogo.github.io/tree/master/depictions/com.amazinowen.dbremover13
-Sileodepiction: https://unkn0wen-guy.github.io/repo/sileodepictions/com.amazinowen.dbremover13
-icon: https://raw.githubusercontent.com/UnKn0weN-GuY/repo/master/assets/DBR13_icon.png
-Version: 1.2.0-1
-Installed-Size: 120
-Size: 3324
-MD5sum: 76e07990ac627f8c3ea809c669263ae8
-Filename: ./debs/com.amazinowen.dbremover13_v1.2.0-1.deb
-
-Package: com.amazinowen.dbremover
-Name: DBRemover12
-Depends: firmware (>12.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.amazinowen.dbremover.deb
-Section: Tweaks
-Version: 1.1.2-1+debug
-Installed-Size: 132
-Size: 9728
-MD5sum: 9950f7d4fd220047a583a6318ce0bdd5
-Filename: ./debs/com.amazinowen.dbremover_1.0.deb
-
-Package: com.amazinowen.dbremover
-Name: DBRemover12
-Depends: firmware (>>12.0), mobilesubstrate
-Architecture: iphoneos-arm
-Description: Dock background remover for iOS 12 - 12.1.2
-Section: Tweaks
-Version: 1.2-1
-Installed-Size: 276
-Size: 20560
-MD5sum: b8db5f48d30de8ecc9ab479b7c0a7776
-Filename: ./debs/com.amazinowen.dbremover_1.2-1.deb
-
-Package: com.amazinowen.dbremover
-Name: DBRemover12
-Depends: firmware (>>12.0), mobilesubstrate
-Architecture: iphoneos-arm
-Description: Dock background remover for iOS 12 - 12.1.2
-Section: Tweaks
-Version: 1.2.1
-Installed-Size: 276
-Size: 21276
-MD5sum: 239d778787b7c95a6712824c82eaf145
-Filename: ./debs/com.amazinowen.dbremover_1.2.1.deb
-
-Package: com.amazinowen.dbremover
-Name: DBRemover12
-Architecture: iphoneos-arm
-Description: Dock background remover for iOS 12 - 12.1.2
-Filename: ./debs/com.amazinowen.dbremover_1.3.deb
-Depends: firmware (>=12.0), mobilesubstrate
-Section: Tweaks
-Version: 1.3
-Installed-Size: 276
-Size: 21308
-MD5sum: ac7818a23fb3e52629a72cbc4b4207f7
-Filename: ./debs/com.amazinowen.dbremover_1.3.deb
-
-Package: com.amazinowen.messangerreturn
-Name: MessangerReturn12
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0-1+debug
-Installed-Size: 132
-Size: 9792
-MD5sum: 78e084aa734ee026c8accf4ec95d4f5b
-Filename: ./debs/com.amazinowen.messangerreturn.deb
-
-Package: com.amazinowen.messangerreturn
-Name: MessangerReturn12
-Architecture: iphoneos-arm
-Description: Brings back button to Facebook messanger for iOS iOS 12 - 12.1.2
-Filename: ./debs/com.amazinowen.messangerreturn_1.1.0.deb
-Depends: firmware (>=12.0), mobilesubstrate
-Section: Tweaks
-Version: 1.1.0
-Installed-Size: 132
-Size: 9884
-MD5sum: f2332941161a6f043efba4ee38d2b78e
-Filename: ./debs/com.amazinowen.messangerreturn_1.1.0.deb
-
-Package: jp.akusio.backgrounderaction13
-Name: BackgrounderAction2 for CCSupport
-Depends: mobilesubstrate, com.opa334.ccsupport
-Architecture: iphoneos-arm
-Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Maintainer: akusio 
-Author: akusio 
-Section: Tweaks
-Version: 0.1.4
-Installed-Size: 244
-Size: 14078
-MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
-Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4.deb
-
-Package: jp.akusio.milkyway2
-Name: MilkyWay2
-Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
-Architecture: iphoneos-arm
-Description: multitasking for iOS 13+.
-Maintainer: akusio 
-Author: akusio 
-Section: Tweaks
-Version: 0.2.0-alpha
-Installed-Size: 376
-Size: 44822
-MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
-Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha.deb
-
-Package: jp.akusio.kernbypass
+Package: com.ipodhacks142.kernbypassfix
 Name: KernBypass (akusio)
-Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.kernbypass, sudo, firmware(>=12.0)
 Architecture: iphoneos-arm
-Description: kernel level jailbreak detection bypass.
-Maintainer: akusio
-Author: akusio
+Description: Fix reboot issue with KernBypass
+Maintainer: iPodHacks142
+Author: iPodHacks142
 Section: System
-Version: 0.0.2
-Installed-Size: 380
-Size: 12098
-MD5sum: bf11d32c8efe3576fb1716ad28227f0b
-Filename: ./debs/jp.akusio.kernbypass_0.0.2_iphoneos-arm.deb
+Version: 1.0
+Installed-Size: 544
+Size: 15114
+MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+Filename: ./debs/com.ipodhacks142.kernbypassfix
 
 Package: jp.akusio.kernbypass
 Name: KernBypass (akusio)
@@ -200,50 +29,6 @@ Size: 15114
 MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
 Filename: ./debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
 
-Package: me.nepeta.mitsuhainfinity
-Name: Mitsuha Infinity
-Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
-Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Architecture: iphoneos-arm
-Description: Audio visualizer for iOS
-Maintainer: ConorTheDev
-Author: c0ldra1n, Nepeta, ConorTheDev
-Section: Tweaks
-Version: 0.1.8-3
-Installed-Size: 896
-Size: 50674
-MD5sum: 7e7149c132c337400a12d42b212aa507
-Filename: ./debs/me.nepeta.mitsuhainfinity_0.1.8-3_iphoneos-arm.deb
-
-Package: me.nepeta.mitsuhainfinity
-Name: Mitsuha Infinity
-Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
-Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Architecture: iphoneos-arm
-Description: Audio visualizer for iOS
-Maintainer: ConorTheDev <con0r.b@protonmail.com>
-Author: ConorTheDev <con0r.b@protonmail.com>, c0ldra1n, Nepeta
-Section: Tweaks
-Version: 0.2
-Installed-Size: 896
-Size: 50426
-MD5sum: 0f785179e49363564db21bd1be986aec
-Filename: ./debs/me.nepeta.mitsuhainfinity_0.2_iphoneos-arm.deb
-
-Package: kr.xsf1re.flyjb
-Section: Tweaks
-Installed-Size: 1268
-Maintainer: XsF1re
-Architecture: iphoneos-arm
-Version: 0.2.5.6
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Description: You can HIDE Doing jailbreak your iDevice.
-Name: FlyJB
-Author: XsF1re
-Size: 504136
-MD5sum: 9124936368f2bb2aa4e7c8b0ca81c25f
-Filename: ./debs/kr.xsf1re.flyjb_0.2.5.6_iphoneos-arm.deb
-
 Package: xyz.mogdan.tweakmanager
 Name: TweakManager
 Architecture: iphoneos-arm
@@ -257,47 +42,5 @@ Size: 1680422
 MD5sum: cc791d881a5f95997c5e81239fd1c7e8
 Filename: ./debs/xyz.mogdan.tweakmanager.deb
 
-Name: azfLibraray
-Package: co.azozzalfiras.azflibrary
-Description: Support library to allow tweaks to communicate with their services from sandboxed app processes!
-Version: 2.6
-Section: Tweaks
-Maintainer: Azozz ALFiras
-Depends: mobilesubstrate, preferenceloader
 
-Architecture: iphoneos-arm
-Installed-Size: 2224
-Author: Azozz ALFiras
-Size: 420014
-MD5sum: 55e86ea557adcb9bf3079c03183b4bd9
-Filename: ./debs/co.azozzalfiras.azflibrary_2.6.deb
-
-Name: Tweaks Manager
-Package: co.azozzalfiras.tweaksmanager
-Icon: https://3.top4top.net/p_1462rpxwn1.png
-Version: 1.1
-Section: Tweaks
-Maintainer: Azozz ALFiras
-Depends: mobilesubstrate, ws.hbang.common
-Description: JB bypass by Azozz Alfiras from packix
-Architecture: iphoneos-arm
-Installed-Size: 864
-Author: Azozz ALFiras
-Size: 152024
-MD5sum: 54347ecf6d1c19b12cbeae58b7d0ca8f
-Filename: ./debs/co.azozzalfiras.tweaksmanager_1.1.deb
-
-Package: co.azozzalfiras.tweaksmanager
-Version: 1.2-3
-Section: Tweaks
-Maintainer: Azozz ALFiras
-Description: JB bypass by Azozz Alfiras from packix
-Depends: mobilesubstrate, ws.hbang.common, co.azozzalfiras.azflibrary
-Architecture: iphoneos-arm
-Installed-Size: 1368
-Name: Tweaks Manager
-Author: Azozz ALFiras
-Size: 680638
-MD5sum: 194676bb0a4462377ce8ea234e33e387
-Filename: ./debs/co.azozzalfiras.tweaksmanager_1.2-3.deb
 �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
